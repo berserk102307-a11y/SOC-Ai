@@ -1,0 +1,6 @@
+{
+  "name": "Security Operations Center — Autonomous Defense & Ingestion Platform",
+  "description": "Enterprise SOC operations platform featuring Ollama free model AI log & backend call error triage, Wazuh SIEM syslog ingestion, L0–L7 autonomous safety gate, deterministic policy enforcement (P001–P005), attack drill replays, RBAC authentication, and NIST SP 800-92 cryptographic audit ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
